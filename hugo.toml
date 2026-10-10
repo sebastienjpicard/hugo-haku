@@ -1,0 +1,16 @@
+[module]
+  [module.hugoVersion]
+    min = '0.146.0'
+
+[params]
+  relatedtext = "Related"
+  # put favicon.ico in static/
+
+  # list items
+  datesinlist = true
+  # authorsinlist = true
+
+  # footer items
+  nextprev = true
+  taglist = true
+  showrss = true
