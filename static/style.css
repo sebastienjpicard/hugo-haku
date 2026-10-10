@@ -1,13 +1,13 @@
 /* TODO: variable-width hotloading */
 
-/* Palette: Catppuccin Mocha */
+/* Palette: Catppuccin Frappé */
 :root {
-	--bg: #1e1e2e ;
-	--text: #cdd6f4 ;
-	--accent: #cba6f7 ;
-	--link: #89b4fa ;
-	--link-visited: #cba6f7 ;
-	--rule: #313244 ;
+	--bg: #303446 ;
+	--text: #c6d0f5 ;
+	--accent: #ca9ee6 ;
+	--link: #8caaee ;
+	--link-visited: #ca9ee6 ;
+	--rule: #414559 ;
 }
 
 body {
